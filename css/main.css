@@ -1,0 +1,64 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.html {
+  color: black;
+}
+h1 {
+  font-family: "Open Sans", sans-serif;
+  margin: 1rem 0.5rem;
+  padding: 0 0.5vw;
+}
+body {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 400;
+}
+.container {
+  display: flex;
+  flex-direction: row;
+  font-size: 1rem;
+  margin: 0.1rem 0.5rem;
+  padding: 0 0.5vw;
+}
+
+.container:nth-child(odd) {
+  background-color: rgba(202, 202, 202, 0.2);
+}
+a {
+  color: black;
+}
+a:link {
+  color: black;
+}
+a:visited {
+  color: black;
+  background-color: black;
+}
+
+#education_course_data:hover,
+#education_course_data .url a:hover {
+  background-color: black;
+  color: white;
+}
+.container--title {
+  display: flex;
+  flex-direction: row;
+  font-size: 1rem;
+  margin: 0.1rem 0.5rem;
+  padding: 0 0.5vw;
+}
+.container--title:hover {
+  background-color: white;
+  color: black;
+}
+
+.company {
+  min-width: 27vw;
+}
+.course_name {
+  min-width: 43vw;
+}
+.url {
+  min-width: 10vw;
+}
