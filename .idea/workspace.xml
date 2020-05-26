@@ -10,7 +10,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="07a64b8e-f6a5-4c8c-8f1b-ac584f6463dc" name="Default Changelist" comment="" />
+    <list default="true" id="07a64b8e-f6a5-4c8c-8f1b-ac584f6463dc" name="Default Changelist" comment="Test">
+      <change afterPath="$PROJECT_DIR$/Training/blog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -148,11 +151,11 @@
       <screen x="0" y="23" width="3780" height="2094" />
     </state>
     <state x="1790" y="958" key="#com.intellij.tools.ToolEditorDialog/0.23.3780.2094@0.23.3780.2094" timestamp="1590506494757" />
-    <state x="1438" y="658" key="CommitChangelistDialog2" timestamp="1590509326528">
+    <state x="1438" y="658" key="CommitChangelistDialog2" timestamp="1590509658845">
       <screen x="0" y="23" width="3780" height="2094" />
     </state>
     <state x="1278" y="653" key="CommitChangelistDialog2/0.23.3360.2077@0.23.3360.2077" timestamp="1590397873568" />
-    <state x="1438" y="658" key="CommitChangelistDialog2/0.23.3780.2094@0.23.3780.2094" timestamp="1590509326528" />
+    <state x="1438" y="658" key="CommitChangelistDialog2/0.23.3780.2094@0.23.3780.2094" timestamp="1590509658845" />
     <state x="1438" y="671" key="CommitChangelistDialog2/0.23.3780.2137@0.23.3780.2137" timestamp="1590396928557" />
     <state x="338" y="306" width="3024" height="1675" key="DiffContextDialog" timestamp="1590507820665">
       <screen x="0" y="23" width="3780" height="2094" />
@@ -180,30 +183,30 @@
       <screen x="0" y="23" width="3780" height="2094" />
     </state>
     <state x="1968" y="717" key="VCS.ChangeListViewerDialog/0.23.3780.2094@0.23.3780.2094" timestamp="1590507025107" />
-    <state x="1450" y="890" key="Vcs.Push.Dialog.v2" timestamp="1590509354560">
+    <state x="1450" y="890" key="Vcs.Push.Dialog.v2" timestamp="1590509820493">
       <screen x="0" y="23" width="3780" height="2094" />
     </state>
     <state x="1289" y="883" key="Vcs.Push.Dialog.v2/0.23.3360.2077@0.23.3360.2077" timestamp="1590397987024" />
-    <state x="1450" y="890" key="Vcs.Push.Dialog.v2/0.23.3780.2094@0.23.3780.2094" timestamp="1590509354560" />
+    <state x="1450" y="890" key="Vcs.Push.Dialog.v2/0.23.3780.2094@0.23.3780.2094" timestamp="1590509820493" />
     <state x="1450" y="908" key="Vcs.Push.Dialog.v2/0.23.3780.2137@0.23.3780.2137" timestamp="1590417997368" />
     <state x="1641" y="1071" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590506998642">
       <screen x="0" y="23" width="3780" height="2094" />
     </state>
     <state x="1641" y="1071" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.3780.2094@0.23.3780.2094" timestamp="1590506998642" />
     <state x="1641" y="1093" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.3780.2137@0.23.3780.2137" timestamp="1590397105889" />
-    <state x="1630" y="934" key="git4idea.merge.GitPullDialog" timestamp="1590509515911">
+    <state x="1630" y="934" key="git4idea.merge.GitPullDialog" timestamp="1590509630596">
       <screen x="0" y="23" width="3780" height="2094" />
     </state>
-    <state x="1630" y="934" key="git4idea.merge.GitPullDialog/0.23.3780.2094@0.23.3780.2094" timestamp="1590509515911" />
+    <state x="1630" y="934" key="git4idea.merge.GitPullDialog/0.23.3780.2094@0.23.3780.2094" timestamp="1590509630596" />
     <state x="1630" y="953" key="git4idea.merge.GitPullDialog/0.23.3780.2137@0.23.3780.2137" timestamp="1590396460072" />
     <state x="1884" y="937" key="git4idea.rebase.GitRebaseDialog" timestamp="1590507033312">
       <screen x="0" y="23" width="3780" height="2094" />
     </state>
     <state x="1884" y="937" key="git4idea.rebase.GitRebaseDialog/0.23.3780.2094@0.23.3780.2094" timestamp="1590507033312" />
-    <state x="1847" y="968" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1590509049258">
+    <state x="1847" y="968" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1590509740953">
       <screen x="0" y="23" width="3780" height="2094" />
     </state>
-    <state x="1847" y="968" key="git4idea.remote.GitConfigureRemotesDialog/0.23.3780.2094@0.23.3780.2094" timestamp="1590509049258" />
+    <state x="1847" y="968" key="git4idea.remote.GitConfigureRemotesDialog/0.23.3780.2094@0.23.3780.2094" timestamp="1590509740953" />
     <state x="1936" y="981" key="git4idea.ui.GitResetDialog" timestamp="1590507050675">
       <screen x="0" y="23" width="3780" height="2094" />
     </state>
