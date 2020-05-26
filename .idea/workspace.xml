@@ -11,7 +11,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07a64b8e-f6a5-4c8c-8f1b-ac584f6463dc" name="Default Changelist" comment="Test">
-      <change afterPath="$PROJECT_DIR$/Training/blog.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +22,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -58,6 +58,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="editing.templates" />
@@ -183,11 +184,11 @@
       <screen x="0" y="23" width="3780" height="2094" />
     </state>
     <state x="1968" y="717" key="VCS.ChangeListViewerDialog/0.23.3780.2094@0.23.3780.2094" timestamp="1590507025107" />
-    <state x="1450" y="890" key="Vcs.Push.Dialog.v2" timestamp="1590509820493">
+    <state x="1450" y="890" key="Vcs.Push.Dialog.v2" timestamp="1590509916713">
       <screen x="0" y="23" width="3780" height="2094" />
     </state>
     <state x="1289" y="883" key="Vcs.Push.Dialog.v2/0.23.3360.2077@0.23.3360.2077" timestamp="1590397987024" />
-    <state x="1450" y="890" key="Vcs.Push.Dialog.v2/0.23.3780.2094@0.23.3780.2094" timestamp="1590509820493" />
+    <state x="1450" y="890" key="Vcs.Push.Dialog.v2/0.23.3780.2094@0.23.3780.2094" timestamp="1590509916713" />
     <state x="1450" y="908" key="Vcs.Push.Dialog.v2/0.23.3780.2137@0.23.3780.2137" timestamp="1590417997368" />
     <state x="1641" y="1071" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590506998642">
       <screen x="0" y="23" width="3780" height="2094" />
@@ -203,10 +204,10 @@
       <screen x="0" y="23" width="3780" height="2094" />
     </state>
     <state x="1884" y="937" key="git4idea.rebase.GitRebaseDialog/0.23.3780.2094@0.23.3780.2094" timestamp="1590507033312" />
-    <state x="1847" y="968" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1590509740953">
+    <state x="1847" y="968" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1590510105872">
       <screen x="0" y="23" width="3780" height="2094" />
     </state>
-    <state x="1847" y="968" key="git4idea.remote.GitConfigureRemotesDialog/0.23.3780.2094@0.23.3780.2094" timestamp="1590509740953" />
+    <state x="1847" y="968" key="git4idea.remote.GitConfigureRemotesDialog/0.23.3780.2094@0.23.3780.2094" timestamp="1590510105872" />
     <state x="1936" y="981" key="git4idea.ui.GitResetDialog" timestamp="1590507050675">
       <screen x="0" y="23" width="3780" height="2094" />
     </state>
