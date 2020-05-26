@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="07a64b8e-f6a5-4c8c-8f1b-ac584f6463dc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/app.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="iri-feature-create_blog" />
+        <entry key="$PROJECT_DIR$/bil" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="6aec7ab0-0ae1-439c-99d1-3e3bddd01597" />
+  </component>
+  <component name="ProjectId" id="1cOMxBkmNVPsaiIKeZTh2IuOwJb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="07a64b8e-f6a5-4c8c-8f1b-ac584f6463dc" name="Default Changelist" comment="" />
+      <created>1590395430594</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590395430594</updated>
+      <workItem from="1590395431836" duration="16332000" />
+      <workItem from="1590505308752" duration="970000" />
+      <workItem from="1590506291844" duration="707000" />
+    </task>
+    <task id="LOCAL-00001" summary="Test">
+      <created>1590396717329</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590396717329</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Test">
+      <created>1590396928644</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1590396928644</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Test">
+      <created>1590397873647</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1590397873647</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1733" y="996" key="#Notifications" timestamp="1590504780393">
+      <screen x="0" y="23" width="3780" height="2094" />
+    </state>
+    <state x="1733" y="996" key="#Notifications/0.23.3780.2094@0.23.3780.2094" timestamp="1590504780393" />
+    <state x="1733" y="1016" key="#Notifications/0.23.3780.2137@0.23.3780.2137" timestamp="1590396977566" />
+    <state x="1967" y="948" key="#Other_File_Types" timestamp="1590505366687">
+      <screen x="0" y="23" width="3780" height="2094" />
+    </state>
+    <state x="1967" y="948" key="#Other_File_Types/0.23.3780.2094@0.23.3780.2094" timestamp="1590505366687" />
+    <state x="1790" y="958" key="#com.intellij.tools.ToolEditorDialog" timestamp="1590506494757">
+      <screen x="0" y="23" width="3780" height="2094" />
+    </state>
+    <state x="1790" y="958" key="#com.intellij.tools.ToolEditorDialog/0.23.3780.2094@0.23.3780.2094" timestamp="1590506494757" />
+    <state x="1278" y="653" key="CommitChangelistDialog2" timestamp="1590397873568">
+      <screen x="0" y="23" width="3360" height="2077" />
+    </state>
+    <state x="1278" y="653" key="CommitChangelistDialog2/0.23.3360.2077@0.23.3360.2077" timestamp="1590397873568" />
+    <state x="1438" y="671" key="CommitChangelistDialog2/0.23.3780.2137@0.23.3780.2137" timestamp="1590396928557" />
+    <state width="1729" height="1020" key="Git.Branch.Popup" timestamp="1590506935789">
+      <screen x="0" y="23" width="3780" height="2094" />
+    </state>
+    <state width="1729" height="1020" key="Git.Branch.Popup/0.23.3780.2094@0.23.3780.2094" timestamp="1590506935789" />
+    <state x="2376" y="436" key="IDE.errors.dialog" timestamp="1590504791443">
+      <screen x="0" y="23" width="3780" height="2094" />
+    </state>
+    <state x="2376" y="436" key="IDE.errors.dialog/0.23.3780.2094@0.23.3780.2094" timestamp="1590504791443" />
+    <state x="1529" y="756" key="SettingsEditor" timestamp="1590506538217">
+      <screen x="0" y="23" width="3780" height="2094" />
+    </state>
+    <state x="1359" y="750" key="SettingsEditor/0.23.3360.2077@0.23.3360.2077" timestamp="1590397847959" />
+    <state x="1529" y="756" key="SettingsEditor/0.23.3780.2094@0.23.3780.2094" timestamp="1590506538217" />
+    <state x="1359" y="810" key="SettingsEditor/0.23.3780.2137@0.23.3780.2137" timestamp="1590397131891" />
+    <state x="1450" y="890" key="Vcs.Push.Dialog.v2" timestamp="1590502378254">
+      <screen x="0" y="23" width="3780" height="2094" />
+    </state>
+    <state x="1289" y="883" key="Vcs.Push.Dialog.v2/0.23.3360.2077@0.23.3360.2077" timestamp="1590397987024" />
+    <state x="1450" y="890" key="Vcs.Push.Dialog.v2/0.23.3780.2094@0.23.3780.2094" timestamp="1590502378254" />
+    <state x="1450" y="908" key="Vcs.Push.Dialog.v2/0.23.3780.2137@0.23.3780.2137" timestamp="1590417997368" />
+    <state x="1641" y="1071" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590506998642">
+      <screen x="0" y="23" width="3780" height="2094" />
+    </state>
+    <state x="1641" y="1071" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.3780.2094@0.23.3780.2094" timestamp="1590506998642" />
+    <state x="1641" y="1093" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.3780.2137@0.23.3780.2137" timestamp="1590397105889" />
+    <state x="1630" y="953" key="git4idea.merge.GitPullDialog" timestamp="1590396460072">
+      <screen x="0" y="23" width="3780" height="2137" />
+    </state>
+    <state x="1630" y="953" key="git4idea.merge.GitPullDialog/0.23.3780.2137@0.23.3780.2137" timestamp="1590396460072" />
+    <state x="1847" y="968" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1590506964365">
+      <screen x="0" y="23" width="3780" height="2094" />
+    </state>
+    <state x="1847" y="968" key="git4idea.remote.GitConfigureRemotesDialog/0.23.3780.2094@0.23.3780.2094" timestamp="1590506964365" />
+    <state x="1616" y="1057" key="svn.passwordDialog" timestamp="1590504831995">
+      <screen x="0" y="23" width="3780" height="2094" />
+    </state>
+    <state x="1616" y="1057" key="svn.passwordDialog/0.23.3780.2094@0.23.3780.2094" timestamp="1590504831995" />
+    <state x="1616" y="1078" key="svn.passwordDialog/0.23.3780.2137@0.23.3780.2137" timestamp="1590395556565" />
+    <state x="1688" y="970" key="svn.repositoryBrowser" timestamp="1590395687471">
+      <screen x="0" y="23" width="3780" height="2137" />
+    </state>
+    <state x="1688" y="970" key="svn.repositoryBrowser/0.23.3780.2137@0.23.3780.2137" timestamp="1590395687471" />
+    <state x="1568" y="1036" key="svn4idea.export.options" timestamp="1590396368583">
+      <screen x="0" y="23" width="3780" height="2137" />
+    </state>
+    <state x="1568" y="1036" key="svn4idea.export.options/0.23.3780.2137@0.23.3780.2137" timestamp="1590396368583" />
+    <state x="1634" y="942" key="svn4idea.import.options" timestamp="1590396350382">
+      <screen x="0" y="23" width="3780" height="2137" />
+    </state>
+    <state x="1634" y="942" key="svn4idea.import.options/0.23.3780.2137@0.23.3780.2137" timestamp="1590396350382" />
+  </component>
+</project>
