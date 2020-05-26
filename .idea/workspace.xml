@@ -1,7 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/iri-feature-create_blog" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="07a64b8e-f6a5-4c8c-8f1b-ac584f6463dc" name="Default Changelist" comment="" />
+    <list default="true" id="07a64b8e-f6a5-4c8c-8f1b-ac584f6463dc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,6 +53,14 @@
   </component>
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="6aec7ab0-0ae1-439c-99d1-3e3bddd01597" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/andremuellerab56/bildung.git" />
+        <option value="ssh://github.com/andremuellerab56/bildung.git" />
+      </set>
+    </option>
   </component>
   <component name="ProjectId" id="1cOMxBkmNVPsaiIKeZTh2IuOwJb" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -54,7 +89,7 @@
       <updated>1590395430594</updated>
       <workItem from="1590395431836" duration="16332000" />
       <workItem from="1590505308752" duration="970000" />
-      <workItem from="1590506291844" duration="1115000" />
+      <workItem from="1590506291844" duration="1528000" />
     </task>
     <task id="LOCAL-00001" summary="Test">
       <created>1590396717329</created>
@@ -77,11 +112,41 @@
       <option name="project" value="LOCAL" />
       <updated>1590397873647</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Test">
+      <created>1590507420090</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1590507420090</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/iri-feature-create_blog" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Test" />
@@ -101,15 +166,20 @@
       <screen x="0" y="23" width="3780" height="2094" />
     </state>
     <state x="1790" y="958" key="#com.intellij.tools.ToolEditorDialog/0.23.3780.2094@0.23.3780.2094" timestamp="1590506494757" />
-    <state x="1278" y="653" key="CommitChangelistDialog2" timestamp="1590397873568">
-      <screen x="0" y="23" width="3360" height="2077" />
-    </state>
-    <state x="1278" y="653" key="CommitChangelistDialog2/0.23.3360.2077@0.23.3360.2077" timestamp="1590397873568" />
-    <state x="1438" y="671" key="CommitChangelistDialog2/0.23.3780.2137@0.23.3780.2137" timestamp="1590396928557" />
-    <state width="1729" height="1020" key="Git.Branch.Popup" timestamp="1590507343660">
+    <state x="1438" y="658" key="CommitChangelistDialog2" timestamp="1590507419935">
       <screen x="0" y="23" width="3780" height="2094" />
     </state>
-    <state width="1729" height="1020" key="Git.Branch.Popup/0.23.3780.2094@0.23.3780.2094" timestamp="1590507343660" />
+    <state x="1278" y="653" key="CommitChangelistDialog2/0.23.3360.2077@0.23.3360.2077" timestamp="1590397873568" />
+    <state x="1438" y="658" key="CommitChangelistDialog2/0.23.3780.2094@0.23.3780.2094" timestamp="1590507419935" />
+    <state x="1438" y="671" key="CommitChangelistDialog2/0.23.3780.2137@0.23.3780.2137" timestamp="1590396928557" />
+    <state x="338" y="306" width="3024" height="1675" key="DiffContextDialog" timestamp="1590507820665">
+      <screen x="0" y="23" width="3780" height="2094" />
+    </state>
+    <state x="338" y="306" width="3024" height="1675" key="DiffContextDialog/0.23.3780.2094@0.23.3780.2094" timestamp="1590507820665" />
+    <state width="1729" height="1020" key="Git.Branch.Popup" timestamp="1590507791602">
+      <screen x="0" y="23" width="3780" height="2094" />
+    </state>
+    <state width="1729" height="1020" key="Git.Branch.Popup/0.23.3780.2094@0.23.3780.2094" timestamp="1590507791602" />
     <state x="2376" y="436" key="IDE.errors.dialog" timestamp="1590504791443">
       <screen x="0" y="23" width="3780" height="2094" />
     </state>
@@ -128,11 +198,11 @@
       <screen x="0" y="23" width="3780" height="2094" />
     </state>
     <state x="1968" y="717" key="VCS.ChangeListViewerDialog/0.23.3780.2094@0.23.3780.2094" timestamp="1590507025107" />
-    <state x="1450" y="890" key="Vcs.Push.Dialog.v2" timestamp="1590507402489">
+    <state x="1450" y="890" key="Vcs.Push.Dialog.v2" timestamp="1590507809384">
       <screen x="0" y="23" width="3780" height="2094" />
     </state>
     <state x="1289" y="883" key="Vcs.Push.Dialog.v2/0.23.3360.2077@0.23.3360.2077" timestamp="1590397987024" />
-    <state x="1450" y="890" key="Vcs.Push.Dialog.v2/0.23.3780.2094@0.23.3780.2094" timestamp="1590507402489" />
+    <state x="1450" y="890" key="Vcs.Push.Dialog.v2/0.23.3780.2094@0.23.3780.2094" timestamp="1590507809384" />
     <state x="1450" y="908" key="Vcs.Push.Dialog.v2/0.23.3780.2137@0.23.3780.2137" timestamp="1590417997368" />
     <state x="1641" y="1071" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590506998642">
       <screen x="0" y="23" width="3780" height="2094" />
