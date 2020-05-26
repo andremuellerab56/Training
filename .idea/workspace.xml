@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="07a64b8e-f6a5-4c8c-8f1b-ac584f6463dc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/app.js" beforeDir="false" />
-    </list>
+    <list default="true" id="07a64b8e-f6a5-4c8c-8f1b-ac584f6463dc" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,7 +17,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="iri-feature-create_blog" />
+        <entry key="$PROJECT_DIR$" value="training" />
         <entry key="$PROJECT_DIR$/bil" value="master" />
       </map>
     </option>
@@ -59,7 +54,7 @@
       <updated>1590395430594</updated>
       <workItem from="1590395431836" duration="16332000" />
       <workItem from="1590505308752" duration="970000" />
-      <workItem from="1590506291844" duration="707000" />
+      <workItem from="1590506291844" duration="1115000" />
     </task>
     <task id="LOCAL-00001" summary="Test">
       <created>1590396717329</created>
@@ -111,10 +106,10 @@
     </state>
     <state x="1278" y="653" key="CommitChangelistDialog2/0.23.3360.2077@0.23.3360.2077" timestamp="1590397873568" />
     <state x="1438" y="671" key="CommitChangelistDialog2/0.23.3780.2137@0.23.3780.2137" timestamp="1590396928557" />
-    <state width="1729" height="1020" key="Git.Branch.Popup" timestamp="1590506935789">
+    <state width="1729" height="1020" key="Git.Branch.Popup" timestamp="1590507343660">
       <screen x="0" y="23" width="3780" height="2094" />
     </state>
-    <state width="1729" height="1020" key="Git.Branch.Popup/0.23.3780.2094@0.23.3780.2094" timestamp="1590506935789" />
+    <state width="1729" height="1020" key="Git.Branch.Popup/0.23.3780.2094@0.23.3780.2094" timestamp="1590507343660" />
     <state x="2376" y="436" key="IDE.errors.dialog" timestamp="1590504791443">
       <screen x="0" y="23" width="3780" height="2094" />
     </state>
@@ -125,11 +120,19 @@
     <state x="1359" y="750" key="SettingsEditor/0.23.3360.2077@0.23.3360.2077" timestamp="1590397847959" />
     <state x="1529" y="756" key="SettingsEditor/0.23.3780.2094@0.23.3780.2094" timestamp="1590506538217" />
     <state x="1359" y="810" key="SettingsEditor/0.23.3780.2137@0.23.3780.2137" timestamp="1590397131891" />
-    <state x="1450" y="890" key="Vcs.Push.Dialog.v2" timestamp="1590502378254">
+    <state x="1274" y="523" width="1713" height="1130" key="ShowDiffWithBranchDialog" timestamp="1590507407446">
+      <screen x="0" y="23" width="3780" height="2094" />
+    </state>
+    <state x="1274" y="523" width="1713" height="1130" key="ShowDiffWithBranchDialog/0.23.3780.2094@0.23.3780.2094" timestamp="1590507407446" />
+    <state x="1968" y="717" key="VCS.ChangeListViewerDialog" timestamp="1590507025107">
+      <screen x="0" y="23" width="3780" height="2094" />
+    </state>
+    <state x="1968" y="717" key="VCS.ChangeListViewerDialog/0.23.3780.2094@0.23.3780.2094" timestamp="1590507025107" />
+    <state x="1450" y="890" key="Vcs.Push.Dialog.v2" timestamp="1590507402489">
       <screen x="0" y="23" width="3780" height="2094" />
     </state>
     <state x="1289" y="883" key="Vcs.Push.Dialog.v2/0.23.3360.2077@0.23.3360.2077" timestamp="1590397987024" />
-    <state x="1450" y="890" key="Vcs.Push.Dialog.v2/0.23.3780.2094@0.23.3780.2094" timestamp="1590502378254" />
+    <state x="1450" y="890" key="Vcs.Push.Dialog.v2/0.23.3780.2094@0.23.3780.2094" timestamp="1590507402489" />
     <state x="1450" y="908" key="Vcs.Push.Dialog.v2/0.23.3780.2137@0.23.3780.2137" timestamp="1590417997368" />
     <state x="1641" y="1071" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590506998642">
       <screen x="0" y="23" width="3780" height="2094" />
@@ -140,10 +143,18 @@
       <screen x="0" y="23" width="3780" height="2137" />
     </state>
     <state x="1630" y="953" key="git4idea.merge.GitPullDialog/0.23.3780.2137@0.23.3780.2137" timestamp="1590396460072" />
+    <state x="1884" y="937" key="git4idea.rebase.GitRebaseDialog" timestamp="1590507033312">
+      <screen x="0" y="23" width="3780" height="2094" />
+    </state>
+    <state x="1884" y="937" key="git4idea.rebase.GitRebaseDialog/0.23.3780.2094@0.23.3780.2094" timestamp="1590507033312" />
     <state x="1847" y="968" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1590506964365">
       <screen x="0" y="23" width="3780" height="2094" />
     </state>
     <state x="1847" y="968" key="git4idea.remote.GitConfigureRemotesDialog/0.23.3780.2094@0.23.3780.2094" timestamp="1590506964365" />
+    <state x="1936" y="981" key="git4idea.ui.GitResetDialog" timestamp="1590507050675">
+      <screen x="0" y="23" width="3780" height="2094" />
+    </state>
+    <state x="1936" y="981" key="git4idea.ui.GitResetDialog/0.23.3780.2094@0.23.3780.2094" timestamp="1590507050675" />
     <state x="1616" y="1057" key="svn.passwordDialog" timestamp="1590504831995">
       <screen x="0" y="23" width="3780" height="2094" />
     </state>
