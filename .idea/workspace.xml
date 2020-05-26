@@ -23,6 +23,7 @@
       <list>
         <option value="HTML File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -204,10 +205,10 @@
       <screen x="0" y="23" width="3780" height="2094" />
     </state>
     <state x="1884" y="937" key="git4idea.rebase.GitRebaseDialog/0.23.3780.2094@0.23.3780.2094" timestamp="1590507033312" />
-    <state x="1847" y="968" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1590510105872">
+    <state x="1847" y="968" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1590515793264">
       <screen x="0" y="23" width="3780" height="2094" />
     </state>
-    <state x="1847" y="968" key="git4idea.remote.GitConfigureRemotesDialog/0.23.3780.2094@0.23.3780.2094" timestamp="1590510105872" />
+    <state x="1847" y="968" key="git4idea.remote.GitConfigureRemotesDialog/0.23.3780.2094@0.23.3780.2094" timestamp="1590515793264" />
     <state x="1936" y="981" key="git4idea.ui.GitResetDialog" timestamp="1590507050675">
       <screen x="0" y="23" width="3780" height="2094" />
     </state>
