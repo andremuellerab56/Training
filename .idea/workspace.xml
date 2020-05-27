@@ -11,7 +11,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07a64b8e-f6a5-4c8c-8f1b-ac584f6463dc" name="Default Changelist" comment="Test">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,6 +82,7 @@
       <workItem from="1590395431836" duration="16332000" />
       <workItem from="1590505308752" duration="970000" />
       <workItem from="1590506291844" duration="1528000" />
+      <workItem from="1590569936852" duration="607000" />
     </task>
     <task id="LOCAL-00001" summary="Test">
       <created>1590396717329</created>
@@ -135,6 +135,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Test" />
